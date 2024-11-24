@@ -1,0 +1,5 @@
+Explain the concept of transformers in AI.
+What is reinforcement learning?
+Describe the differences between supervised and unsupervised learning.
+How do convolutional neural networks work?
+What are the applications of AI in healthcare?
